@@ -12,8 +12,8 @@ Run using Macbook (2.6 GHz 6-Core Intel Core i7 / 32gb RAM)
     * Rust in python: 0.000011 secs
 
 ## Fibonacci example when n=45:
-  * Pure python XXX secs
-  * Rust in python: XX secs
+  * Pure python 5mins 30 secs
+  * Rust in python: 4 secs
 
 
 # Notes:
