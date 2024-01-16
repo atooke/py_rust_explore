@@ -1,6 +1,10 @@
 # Overview 
 * This repo is a quick explore of how to refactor code from python to Rust to explore the capability.
 * In this repo there is an example of how to load a simple 1.2m JSON file with python and then how to move code to Rust and provide python binding.
+* Overview of repo structure:
+   * py_rust_explore - contains python code
+   * src - contains rust code
+
 
 
 # Benchmarking:
